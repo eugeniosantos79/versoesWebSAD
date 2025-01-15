@@ -1,9 +1,10 @@
 ---------SAD testes--------------
 cm-porto-teste_sad=5.7.1
-cm-sintra_teste_sad=5.7.1
+cm-sintra-teste_sad=5.7.1
 
 ---------SAD--------------
 cm-coimbra_sad=5.7.1
+cm-porto_sad=5.7.1
 cm-tomar_sad=5.7.1
 cm-oeiras_sad=5.7.1
 
